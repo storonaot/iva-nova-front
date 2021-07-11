@@ -19,7 +19,7 @@
     "css-wipe": "^4.3.0",
     "dropbox": "^9.8.6",
     "isomorphic-unfetch": "^3.0.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "next": "^10.0.5",
     "next-images": "^1.6.2",
     "nextjs-progressbar": "^0.0.11",
